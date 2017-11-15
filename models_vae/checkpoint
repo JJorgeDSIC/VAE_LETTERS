@@ -1,0 +1,2 @@
+model_checkpoint_path: "VANILLA_VAE.ckpt"
+all_model_checkpoint_paths: "VANILLA_VAE.ckpt"
